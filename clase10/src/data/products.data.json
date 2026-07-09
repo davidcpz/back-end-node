@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "smartphone",
+        "categoria": "electrónica",
+        "precio": 699.99,
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "laptop",
+        "categoria": "electrónica",
+        "precio": 1299.99,
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "nombre": "auriculares",
+        "categoria": "accesorios",
+        "precio": 199.99,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "nombre": "monitor",
+        "categoria": "electrónica",
+        "precio": 299.99,
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "nombre": "teclado mecánico",
+        "categoria": "accesorios",
+        "precio": 89.99,
+        "stock": 75
+    }
+]
